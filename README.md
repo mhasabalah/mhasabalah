@@ -146,11 +146,12 @@
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/mhasabalah/mhasabalah/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+<div align="center">
 
+
+
+[![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/mhasabalah)
+</div>
 
 
 
