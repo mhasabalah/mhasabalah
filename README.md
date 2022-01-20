@@ -126,8 +126,8 @@
 <div align="center">
   <h3>Connect with me</h3>
   <div>
-    <a  href="https://www.linkedin.com/in/mohamed-hasabalah-728978123/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="elanza48"/>
+    <a  href="https://www.linkedin.com/in/mohamed-hasabalah/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed-hasabalah"/>
     </a>
   </div>
  
