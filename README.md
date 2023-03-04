@@ -140,8 +140,11 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mhasabalah&theme=material-palenight)](https://github.com/mhasabalah)
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ----
 
@@ -149,7 +152,6 @@
 
 
 
-[![](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)](https://github.com/mhasabalah)
 </div>
 
 
