@@ -125,7 +125,9 @@
     </a>
   </div>
 </div>
+
 ----
+
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
@@ -134,8 +136,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-----
-
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhasasbalah&label=Profile%20views&color=0e75b6&style=plastic" alt="mhasasbalah" /> </p>
 <hr/>
 
