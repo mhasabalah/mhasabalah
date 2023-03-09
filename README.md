@@ -53,8 +53,6 @@
     <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
       alt="python"/>
   </a>
-  
-  
 </p>
 
 <h3 align="center">Framework</h3>
@@ -73,7 +71,6 @@
 
   
 </p>
-
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
@@ -95,7 +92,6 @@
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
 </p>
-
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
@@ -121,8 +117,6 @@
 </p>
 </details>
 
-
-
 <div align="center">
   <h3>Connect with me</h3>
   <div>
@@ -130,13 +124,8 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed-hasabalah"/>
     </a>
   </div>
- 
 </div>
-
-
-
 ----
-
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
@@ -145,27 +134,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
 ----
-
-<div align="center">
-
-
-
-</div>
-
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhasasbalah&label=Profile%20views&color=0e75b6&style=plastic" alt="mhasasbalah" /> </p>
 <hr/>
 
-* Credit: [Mohamed Hasabalah](https://github.com/mhasabalah)
-* Last Edited on: 17/12/2021
-
-
-
-
-
-
-
-
+Credit: [Mohamed Hasabalah](https://github.com/mhasabalah)
