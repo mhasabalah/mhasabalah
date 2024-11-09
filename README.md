@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;DS%20|%20AI%20|%20ML%20Enthusiast;.Net%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
-<h3 font-size="20" align="center">A passionate Software Engineer and a student from Egypt.</h3>
+<h3 font-size="20" align="center">A passionate Software Engineer.</h3>
 
 
 - 🌱 I’m currently learning **To be Extroverted** 
